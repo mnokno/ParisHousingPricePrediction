@@ -1,7 +1,7 @@
 # ParisHousingPricePrediction
-Paris residuncial building price prediction using XGBoost.
+Paris residential building price prediction using XGBoost.
 
-Atributs used for predictions:  
+Attributes used for predictions:  
 - squareMeters
 - numberOfRooms
 - hasYard
